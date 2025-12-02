@@ -2,7 +2,7 @@
 title: "Building a GAN from Scratch: My Journey into Generative AI 🤖"
 datePublished: Sun Jul 13 2025 06:10:59 GMT+0000 (Coordinated Universal Time)
 cuid: cmio8n9mc000002l12p5e5gyb
-slug: building-a-gan-from-scratch-my-journey-into-generative-ai
+slug: building-a-gan-from-scratch-my-journey-into-generative-ai--deleted
 
 ---
 
