@@ -2,7 +2,7 @@
 title: "A Practical Guide to Anomaly Detection in Python"
 datePublished: Wed Jul 16 2025 08:28:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmio8mkd7000102jx3hnhcdw3
-slug: a-practical-guide-to-anomaly-detection-in-python
+slug: a-practical-guide-to-anomaly-detection-in-python--deleted
 
 ---
 
