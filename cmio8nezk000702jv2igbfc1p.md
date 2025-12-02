@@ -2,7 +2,7 @@
 title: "Building LLM's From Scratch"
 datePublished: Tue Jul 01 2025 05:38:24 GMT+0000 (Coordinated Universal Time)
 cuid: cmio8nezk000702jv2igbfc1p
-slug: building-llms-from-scratch
+slug: building-llms-from-scratch--deleted
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764659407401/bf63eee6-9c68-4a60-9cc7-0bf4e126c79f.webp
 
 ---
