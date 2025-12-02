@@ -2,7 +2,7 @@
 title: "A Deep Dive into Clustering for Customer Segmentation"
 datePublished: Wed Jul 16 2025 06:38:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmio8mok0000102jx9rbrhjnz
-slug: a-deep-dive-into-clustering-for-customer-segmentation
+slug: a-deep-dive-into-clustering-for-customer-segmentation--deleted
 
 ---
 
